@@ -1,4 +1,4 @@
-# Brian's First Readme
+# Brian's First README
 
 ## Learning Goals
 
